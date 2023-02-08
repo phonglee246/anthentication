@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>859673449844-pjjr30gmt4u2b11q1a83jfvclibfmvdk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.859673449844-pjjr30gmt4u2b11q1a83jfvclibfmvdk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsWkfL_ClsMYgCtuMkUESmTF9PdEmlv3s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>859673449844</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vietxanh.Authentication</string>
+	<key>PROJECT_ID</key>
+	<string>authetication1-d8987</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authetication1-d8987.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:859673449844:ios:d302597c3192cb9c658821</string>
+</dict>
+</plist>
